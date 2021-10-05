@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = dave@sidgrove.com
+	name = Dave Sellick
